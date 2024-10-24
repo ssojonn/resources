@@ -10,7 +10,6 @@ This repository is a collection of my favorite resources, articles, tools, and u
 - [Tools](#tools)
 - [Others](#others)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -46,10 +45,3 @@ Contributions are welcome! If you have a resource that you believe would be a gr
 2. Include a brief description of the link.
 3. Place it under the appropriate category.
 
----
-
-### 📄 License
-
-This repository is licensed under the MIT License. You can view the license [here](LICENSE).
-
----
