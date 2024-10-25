@@ -19,6 +19,7 @@ This repository is a collection of my favorite resources, articles, tools, and u
   - [Aceternity UI](https://ui.aceternity.com/components) - The most trending components
   - [Magic UI](https://magicui.design/) - 50+ open-source animated components
   - [Motion-Primitives](https://motion-primitives.com/docs) - Beautifully designed motion components
+  - [Blogs of Olivierlarose](https://blog.olivierlarose.com/)
 - **CSS**
   - Nothing added yet
 
