@@ -19,7 +19,9 @@ This repository is a collection of my favorite resources, articles, tools, and u
   - [Aceternity UI](https://ui.aceternity.com/components) - The most trending components
   - [Magic UI](https://magicui.design/) - 50+ open-source animated components
   - [Motion-Primitives](https://motion-primitives.com/docs) - Beautifully designed motion components
-  - [Blogs of Olivierlarose](https://blog.olivierlarose.com/)
+  - [Framer ground](https://ground.bossadizenith.me/docs) - Copy. Paste. Animate
+  - [Animata](https://animata.design/) - Hand-crafted ✍️ interaction animations
+  - [VariantVault](https://variantvault.chrisabdo.dev/) - Beautiful Framer Motion Animations
 - **CSS**
   - Nothing added yet
 
