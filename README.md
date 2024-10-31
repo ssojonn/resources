@@ -22,6 +22,10 @@ This repository is a collection of my favorite resources, articles, tools, and u
   - [Framer ground](https://ground.bossadizenith.me/docs) - Copy. Paste. Animate
   - [Animata](https://animata.design/) - Hand-crafted ✍️ interaction animations
   - [VariantVault](https://variantvault.chrisabdo.dev/) - Beautiful Framer Motion Animations
+  - [Shadcn Expansions]
+    - [https://shadcnui-ex..](https://shadcnui-expansions.typeart.cc/docs)
+    - [https://shadcn-ex...](https://shadcn-extension.vercel.app/docs/introduction)
+    - [https://enhanced-button...](https://enhanced-button.vercel.app/)
 - **CSS**
   - Nothing added yet
 
