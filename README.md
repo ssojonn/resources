@@ -5,11 +5,11 @@ This repository is a collection of my favorite resources, articles, tools, and u
 
 ## 📋 Table of Contents
 
-- [Development](#development)
-- [Design](#design)
-- [Tools](#tools)
-- [Others](#others)
-- [Contributing](#contributing)
+- [Development](#-development)
+- [Design](#-design)
+- [Tools](#-tools)
+- [Others](#-others)
+- [Contributing](#-contributing)
 
 ---
 
