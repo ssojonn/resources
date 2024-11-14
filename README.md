@@ -16,6 +16,7 @@ This repository is a collection of my favorite resources, articles, tools, and u
 ### 📦 Development
 
 - **React Components Library**
+  -  [OriginUI](https://originui.com/) - UI components built with Tailwind CSS and Next.js
   - [Aceternity UI](https://ui.aceternity.com/components) - The most trending components
   - [Magic UI](https://magicui.design/) - 50+ open-source animated components
   - [Motion-Primitives](https://motion-primitives.com/docs) - Beautifully designed motion components
