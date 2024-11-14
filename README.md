@@ -16,13 +16,13 @@ This repository is a collection of my favorite resources, articles, tools, and u
 ### 📦 Development
 
 - **React Components Library**
-  -  [OriginUI](https://originui.com/) - UI components built with Tailwind CSS and Next.js
   - [Aceternity UI](https://ui.aceternity.com/components) - The most trending components
   - [Magic UI](https://magicui.design/) - 50+ open-source animated components
   - [Motion-Primitives](https://motion-primitives.com/docs) - Beautifully designed motion components
   - [Framer ground](https://ground.bossadizenith.me/docs) - Copy. Paste. Animate
   - [Animata](https://animata.design/) - Hand-crafted ✍️ interaction animations
   - [VariantVault](https://variantvault.chrisabdo.dev/) - Beautiful Framer Motion Animations
+  - [OriginUI](https://originui.com/) - UI components built with Tailwind CSS and Next.js
   - [Shadcn Expansions]
     - [https://shadcnui-ex..](https://shadcnui-expansions.typeart.cc/docs)
     - [https://shadcn-ex...](https://shadcn-extension.vercel.app/docs/introduction)
