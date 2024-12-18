@@ -43,6 +43,7 @@ This repository is a collection of my favorite resources, articles, tools, and u
 ### 🔗 Others
 
 - [Image to Base64](https://codepen.io/sojonatpen/pen/jOjNMvL) - Paste image and get the Base64 code
+- [Animated Emoji](https://googlefonts.github.io/noto-emoji-animation/) - The hub for everything animated emoji!
 
 ---
 
