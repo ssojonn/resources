@@ -16,6 +16,7 @@ This repository is a collection of my favorite resources, articles, tools, and u
 ### 📦 Development
 
 - **React Components Library**
+  - [FancyComponents](https://www.fancycomponents.dev/docs/components/physics/elastic-line) - Make your website fancy
   - [Aceternity UI](https://ui.aceternity.com/components) - The most trending components
   - [Magic UI](https://magicui.design/) - 50+ open-source animated components
   - [Motion-Primitives](https://motion-primitives.com/docs) - Beautifully designed motion components
