@@ -19,6 +19,7 @@ This repository is a collection of my favorite resources, articles, tools, and u
   - [FancyComponents](https://www.fancycomponents.dev/docs/components/physics/elastic-line) - Make your website fancy
   - [Aceternity UI](https://ui.aceternity.com/components) - The most trending components
   - [Magic UI](https://magicui.design/) - 50+ open-source animated components
+  - [KokonutUI](https://kokonutui.com/) - Build stunning websites with no time on design
   - [Motion-Primitives](https://motion-primitives.com/docs) - Beautifully designed motion components
   - [Framer ground](https://ground.bossadizenith.me/docs) - Copy. Paste. Animate
   - [Animata](https://animata.design/) - Hand-crafted ✍️ interaction animations
