@@ -16,6 +16,7 @@ This repository is a collection of my favorite resources, articles, tools, and u
 ### 📦 Development
 
 - **React Components Library**
+  - [21st.dev](https://21st.dev/) - The NPM for Design Components
   - [Reactbits](https://www.reactbits.dev/) - Hand-picked animated components collection
   - [FancyComponents](https://www.fancycomponents.dev/docs/components/physics/elastic-line) - Make your website fancy
   - [Aceternity UI](https://ui.aceternity.com/components) - The most trending components
