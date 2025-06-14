@@ -22,6 +22,7 @@ This repository is a collection of my favorite resources, articles, tools, and u
   - [FancyComponents](https://www.fancycomponents.dev/docs/components/physics/elastic-line) - Make your website fancy
   - [Ready-Made Sections](https://nsui.irung.me/) - Shadcn/UI Marketing Blocks
   - [Aceternity UI](https://ui.aceternity.com/components) - The most trending components
+  - [Animate-UI](https://animate-ui.com/) - Animated, open-source components
   - [Magic UI](https://magicui.design/) - 50+ open-source animated components
   - [KokonutUI](https://kokonutui.com/) - Build stunning websites with no time on design
   - [Motion-Primitives](https://motion-primitives.com/docs) - Beautifully designed motion components
