@@ -16,6 +16,7 @@ This repository is a collection of my favorite resources, articles, tools, and u
 ### 📦 Development
 
 - **React Components Library**
+  - [UI Collections](https://nextradar.dev/content/ui-components) - Top UI Collections
   - [21st.dev](https://21st.dev/) - The NPM for Design Components
   - [Reactbits](https://www.reactbits.dev/) - Hand-picked animated components collection
   - [UI-Layouts/Components](https://www.ui-layouts.com/components) - The Components Your Website Deserve!
