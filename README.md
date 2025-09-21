@@ -37,6 +37,8 @@ This repository is a collection of my favorite resources, articles, tools, and u
     - [https://enhanced-button...](https://enhanced-button.vercel.app/)
 - **CSS**
   - Nothing added yet
+- **TailwindCSS**
+  - [TailwindCSS Components](https://www.curateduilist.com/)
 
 ### 🎨 Design
 
