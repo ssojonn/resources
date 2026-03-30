@@ -44,6 +44,7 @@ This repository is a collection of my favorite resources, articles, tools, and u
 
 ### 🎨 Design
 
+- [Best Design on X](https://bestdesignsonx.com/) - UI Status from X
 - [Kreative](https://kreative.tools/) - Design resource/tools
 - [UIVerse](https://uiverse.io/) - Open-Source UI Library
 - [CallToInspiration](https://calltoinspiration.com/) - UI Inspiration
