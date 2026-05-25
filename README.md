@@ -19,6 +19,7 @@ This repository is a collection of my favorite resources, articles, tools, and u
 ### 📦 Development
 
 - **React Components Library**
+  - [Animata](https://animata.design/docs/text) - Ship faster - Look better
   - [UI Collections](https://nextradar.dev/content/ui-components) - Top UI Collections
   - [Vengenceui](https://www.vengenceui.com/docs/components-overview) - New Beautifull
   - [Motion Core](https://motion-core.dev/) - High-quality motion components for Svelte
