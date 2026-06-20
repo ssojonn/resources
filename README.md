@@ -42,7 +42,7 @@ This repository is a collection of my favorite resources, articles, tools, and u
     - [https://shadcn-ex...](https://shadcn-extension.vercel.app/docs/introduction)
     - [https://enhanced-button...](https://enhanced-button.vercel.app/)
 - **CSS**
-  - Nothing added yet
+  - [Transitions](https://transitions.dev/) - Collection of the most essential transitions for web apps with **skill**.
 - **TailwindCSS**
   - [TailwindCSS Components](https://www.curateduilist.com/)
 
