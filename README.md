@@ -13,14 +13,14 @@ This repository is a collection of my favorite resources, articles, tools, and u
 
 ---
 
-### Inspiration
+### ✳️ Inspiration
 - [Inspiration Gallery](https://curations.supply/) - All Inspiration Sources
 
 ### 📦 Development
 
 - **React Components Library**
   - [Animata](https://animata.design/) - Ship faster - Look better
-  - [Skiper UI](https://skiper-ui.com/) - Uncommon Components
+  - [Skiper UI](https://skiper-ui.com/) - Uncommon Components (FREEMIUM)
   - [beUI](https://beui.dev/) - Motion components for React
   - [UI Collections](https://nextradar.dev/content/ui-components) - Top UI Collections
   - [Vengenceui](https://www.vengenceui.com/docs/components-overview) - New Beautifull
