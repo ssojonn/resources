@@ -19,7 +19,8 @@ This repository is a collection of my favorite resources, articles, tools, and u
 ### 📦 Development
 
 - **React Components Library**
-  - [Animata](https://animata.design/docs/text) - Ship faster - Look better
+  - [Animata](https://animata.design/) - Ship faster - Look better
+  - [Skiper UI](https://skiper-ui.com/) - Uncommon Components
   - [beUI](https://beui.dev/) - Motion components for React
   - [UI Collections](https://nextradar.dev/content/ui-components) - Top UI Collections
   - [Vengenceui](https://www.vengenceui.com/docs/components-overview) - New Beautifull
