@@ -16,6 +16,9 @@ This repository is a collection of my favorite resources, articles, tools, and u
 ### ✳️ Inspiration
 - [Inspiration Gallery](https://curations.supply/) - All Inspiration Sources
 
+### ❇️ UI
+- [Paper Shader](https://shaders.paper.design/) - Ultra fast zero-dependency shaders for your designs
+
 ### 📦 Development
 
 - **React Components Library**
