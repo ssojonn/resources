@@ -22,6 +22,7 @@ This repository is a collection of my favorite resources, articles, tools, and u
 ### 📦 Development
 
 - **React Components Library**
+  - [OriginKit](https://www.originkit.dev/) - Free Animated Compo Library
   - [Animata](https://animata.design/) - Ship faster - Look better
   - [Skiper UI](https://skiper-ui.com/) - Uncommon Components (FREEMIUM)
   - [beUI](https://beui.dev/) - Motion components for React
